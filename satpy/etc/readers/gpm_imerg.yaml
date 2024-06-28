@@ -39,8 +39,8 @@ datasets:
     resolution: 0.1
     file_type: gpm_imerg_h5
     units: mm/hr
-  precipitationCal:
-    name: precipitationCal
+  precipitation:
+    name: precipitation
     resolution: 0.1
     file_type: gpm_imerg_h5
     units: mm/hr
